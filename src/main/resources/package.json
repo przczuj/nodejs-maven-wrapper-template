@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-maven-wrapper-template",
+  "version": "0.1.0",
+  "description": "Template for running node.js using Java though Maven wrapper",
+  "license": "MIT License",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "dependencies": {
+  }
+}
