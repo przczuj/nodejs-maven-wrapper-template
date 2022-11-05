@@ -1,0 +1,1 @@
+# nodejs-maven-wrapper-template
